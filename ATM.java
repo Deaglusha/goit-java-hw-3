@@ -1,5 +1,3 @@
-package com.java;
-
 public class ATM {
     public int countBanknotes(int sum) {
         int a500 = 0, a200 = 0, a100 = 0, a50 = 0, a20 = 0, a10 = 0, a5 = 0, a2 = 0, a1 = 0;
